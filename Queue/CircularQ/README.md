@@ -35,4 +35,13 @@ A simple menu-driven **circular** queue implementation in C++ using a fixed-size
 ```bash
 g++ queue.cpp -o queue
 ./queue
+
+```
+
+##On Running You will see
+```
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
 ```
